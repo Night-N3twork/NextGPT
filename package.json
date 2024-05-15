@@ -1,0 +1,16 @@
+{
+  "name": "nextgpt",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "chalk": "^5.2.0",
+    "openai": "^3.1.0"
+  }
+}
